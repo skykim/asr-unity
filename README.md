@@ -63,7 +63,7 @@ You can easily switch between STT engines in the demo scene:
 
 See `asr-unity` in action! Check out our demo video below.
 
-[![ASR Unity Demo](https://img.youtube.com/vi/RU9qRlYNVm8/0.jpg)](https://www.youtube.com/watch?v=RU9qRlYNVm8)
+[![ASR Unity Demo](https://img.youtube.com/vi/rq0J-bp0x5s/0.jpg)](https://www.youtube.com/watch?v=rq0J-bp0x5s)
 
 ## Links
 
